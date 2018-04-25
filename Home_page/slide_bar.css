@@ -1,0 +1,9 @@
+.slide_bar {
+    position: absolute;
+    z-index: 1;
+}
+
+.image1 {
+    width: 950px;
+    margin-top: 30px;
+}

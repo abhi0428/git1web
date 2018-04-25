@@ -44,7 +44,7 @@ body {
 }
 
 .trans_div {
-    height: 1590px;
+    height: 590px;
     width: 950px;
     background-color: rgb(44, 44, 44);
     opacity: 0.6;
@@ -52,8 +52,9 @@ body {
 }
 
 .rem_part {
-    height: 100px;
-    background-color: aqua;
+    height: 600px;
+    background-color: white;
     width: 950px;
     position: sticky;
+    margin-top: 590px;
 }
